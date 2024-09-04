@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"465457e90fec5e27","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Deuses & Seres Supremos/Seres Supremos/Seres Supremos.md","x":-2040,"y":-1120,"width":400,"height":180},
+		{"id":"e1cacc5af9c716d5","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Planos/Plano Astral/Plano Astral.md","x":-2880,"y":-740,"width":400,"height":180},
+		{"id":"dc50f72803a4cc9f","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Deuses & Seres Supremos/Seres Supremos/Kallos.md","x":-2280,"y":-740,"width":400,"height":180},
+		{"id":"44e45f40276065c0","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Deuses & Seres Supremos/Seres Supremos/Horrores (Horrors)/Horrores (Horrors).md","x":-1780,"y":-740,"width":400,"height":180},
+		{"id":"d398f883710262fc","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Deuses & Seres Supremos/Deuses Externos/Deuses Externos.md","x":-2280,"y":-400,"width":400,"height":180},
+		{"id":"acca4279ce696e25","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Planos/Plano Astral/Plano Divino.md","x":-2880,"y":-80,"width":400,"height":180},
+		{"id":"603649faa5544079","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Deuses & Seres Supremos/Deuses Maiores/Deuses Maiores.md","x":-2280,"y":-80,"width":400,"height":180},
+		{"id":"526a393aa7c37916","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Deuses & Seres Supremos/Deuses Menores & Celestiais/Celestiais/Celestiais.md","x":-1580,"y":-220,"width":400,"height":180},
+		{"id":"6026cf4e7f24fb50","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Deuses & Seres Supremos/Deuses Menores & Celestiais/Deuses Menores/Deuses Menores.md","x":-1580,"y":100,"width":400,"height":180},
+		{"id":"9ce2cdf25883a931","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Planos/Plano Astral/Planos Médios.md","x":-2880,"y":280,"width":400,"height":180},
+		{"id":"ae09f92425c93e15","type":"file","file":"Corpse/Seres Supremos, Deuses & Planos/Planos/Plano Astral/Plano Terreno.md","x":-1580,"y":600,"width":400,"height":180}
+	],
+	"edges":[
+		{"id":"eb0ab167ed9183a6","fromNode":"465457e90fec5e27","fromSide":"bottom","toNode":"dc50f72803a4cc9f","toSide":"top"},
+		{"id":"853d965c94b28f6b","fromNode":"465457e90fec5e27","fromSide":"bottom","toNode":"44e45f40276065c0","toSide":"top"},
+		{"id":"40690e4a5b307bd2","fromNode":"dc50f72803a4cc9f","fromSide":"bottom","toNode":"d398f883710262fc","toSide":"top"},
+		{"id":"add50e93d6d27339","fromNode":"d398f883710262fc","fromSide":"bottom","toNode":"603649faa5544079","toSide":"top"},
+		{"id":"418625dca73d50ff","fromNode":"dc50f72803a4cc9f","fromSide":"left","toNode":"e1cacc5af9c716d5","toSide":"right"},
+		{"id":"aefdeea0a583e580","fromNode":"e1cacc5af9c716d5","fromSide":"bottom","toNode":"acca4279ce696e25","toSide":"top"},
+		{"id":"c8a1036df5d5a11f","fromNode":"603649faa5544079","fromSide":"left","toNode":"acca4279ce696e25","toSide":"right"},
+		{"id":"65467b3f07ba2d98","fromNode":"d398f883710262fc","fromSide":"left","toNode":"e1cacc5af9c716d5","toSide":"right"},
+		{"id":"fef437203555970d","fromNode":"acca4279ce696e25","fromSide":"bottom","toNode":"9ce2cdf25883a931","toSide":"top"},
+		{"id":"bcb94ec3974a272b","fromNode":"603649faa5544079","fromSide":"right","toNode":"526a393aa7c37916","toSide":"left"},
+		{"id":"908f469af6a81583","fromNode":"603649faa5544079","fromSide":"right","toNode":"6026cf4e7f24fb50","toSide":"left"},
+		{"id":"12babb7701ad9d30","fromNode":"603649faa5544079","fromSide":"bottom","toNode":"9ce2cdf25883a931","toSide":"top"},
+		{"id":"66518660a5463a76","fromNode":"6026cf4e7f24fb50","fromSide":"bottom","toNode":"9ce2cdf25883a931","toSide":"right"},
+		{"id":"57f6542e6e08d957","fromNode":"9ce2cdf25883a931","fromSide":"bottom","toNode":"ae09f92425c93e15","toSide":"top"},
+		{"id":"c96b0ebdd9c319e1","fromNode":"6026cf4e7f24fb50","fromSide":"bottom","toNode":"ae09f92425c93e15","toSide":"top"},
+		{"id":"efa33ac3bc5ed19f","fromNode":"526a393aa7c37916","fromSide":"right","toNode":"ae09f92425c93e15","toSide":"right"}
+	]
+}

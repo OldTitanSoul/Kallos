@@ -1,0 +1,1 @@
+O Plano Terreno são aqueles que servem de morada para todos os mundos, raças, criaturas e bestas e outros seres vivos. É a casa dos mortais, é no Plano Terreno que está Cadáver, o principal mundo do Plano Terreno e criação direta de [[Kallos]]. Enquanto Cadáver é criação de Kallos outros dos mundos presentes no Plano Terreno são criações dos outros deuses.

@@ -1,0 +1,1 @@
+Os Planos Externos são aqueles criados pelos Horrores. É nestes planos que o Horrores vivem, conspirando e planejando sob seus motivos ulteriores e misteriosos.

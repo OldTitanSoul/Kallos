@@ -1,0 +1,1 @@
+Estão entre as primeiras criações de [[Kallos]], sua prole. Os Deuses Externos são tão misteriosos quanto seu criador, nenhum mortal jamais presenciou um Deus Externo, e o pouco que se sabe deles é através dos [[Deuses Maiores]] e [[Deuses Menores]]. Os Deuses Externos também aparentam exercer pouca influência no mundo dos mortais e nos planos que não sejam os seus.
