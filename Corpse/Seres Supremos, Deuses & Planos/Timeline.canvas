@@ -42,9 +42,9 @@
 		{"id":"8f12505f7cfb1f8a","x":3380,"y":-140,"width":145,"height":60,"type":"text","text":"3031 - E.P"},
 		{"id":"026fe429bc8dc8e1","x":3328,"y":-38,"width":250,"height":129,"type":"text","text":"Último confronto e vitória do Herói trazendo uma nova era de prosperidade a Cadáver."},
 		{"id":"cc8bf9efa5dcaa4c","x":-860,"y":-140,"width":200,"height":60,"type":"text","text":"ERA PRIMORDIAL"},
-		{"id":"2b7b7a356d8ba330","x":3600,"y":-140,"width":208,"height":60,"type":"text","text":"ERA CIVILIZATÓRIA"},
-		{"id":"edee14a4594858ad","x":3880,"y":-140,"width":152,"height":60,"type":"text","text":"1 - E.C"},
-		{"id":"44edaed1e7e3c9c7","x":3841,"y":-38,"width":230,"height":60,"type":"text","text":"Civilizações começam a se reestruturar."}
+		{"id":"2b7b7a356d8ba330","x":-860,"y":360,"width":208,"height":60,"type":"text","text":"ERA CIVILIZATÓRIA"},
+		{"id":"edee14a4594858ad","x":-580,"y":360,"width":152,"height":60,"type":"text","text":"1 - E.C"},
+		{"id":"44edaed1e7e3c9c7","x":-619,"y":462,"width":230,"height":60,"type":"text","text":"Civilizações começam a se reestruturar."}
 	],
 	"edges":[
 		{"id":"615865c62bdded0a","fromNode":"1f9394ac2335314e","fromSide":"right","toNode":"16c566c50049ce1c","toSide":"left"},
@@ -86,7 +86,6 @@
 		{"id":"e82561f9bd8bd399","fromNode":"0c1082d05370c224","fromSide":"top","toNode":"e2702cfb80cf2765","toSide":"bottom"},
 		{"id":"2896986e726b28ce","fromNode":"0c1082d05370c224","fromSide":"right","toNode":"8f12505f7cfb1f8a","toSide":"left"},
 		{"id":"e08e22dd86f8253a","fromNode":"8f12505f7cfb1f8a","fromSide":"bottom","toNode":"026fe429bc8dc8e1","toSide":"top"},
-		{"id":"45cb504f84ad2c6a","fromNode":"8f12505f7cfb1f8a","fromSide":"right","toNode":"2b7b7a356d8ba330","toSide":"left"},
 		{"id":"6094a615234e35b5","fromNode":"cc8bf9efa5dcaa4c","fromSide":"right","toNode":"1f9394ac2335314e","toSide":"left"},
 		{"id":"71936c618349ab4e","fromNode":"2b7b7a356d8ba330","fromSide":"right","toNode":"edee14a4594858ad","toSide":"left"},
 		{"id":"28ec912e48e7e45d","fromNode":"edee14a4594858ad","fromSide":"bottom","toNode":"44edaed1e7e3c9c7","toSide":"top"}
